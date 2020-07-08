@@ -2,12 +2,13 @@
 name: Bug Report
 about: Create a report to help us improve 
 title: New bug report
-labels: [action] bug, [priority] unclassified, [status] pending
+labels: bug, [priority] unclassified, [status] pending
 template: bug_report.md
 milestone: 5.0.0
 assignees: 
 projects: trialPosixSharedMem
 ---
+
 <!--  Check an option by [x], Uncheck an option by [ ]. Please preview to see your option has been selected -->
 <!-- Please fill out everything with an *, as this report will be discarded otherwise -->
 
