@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Create a report to help us improve 
-title: New bug report (@Version)
+title: New bug report
 labels: bug, [priority] unclassified, [status] pending
 template: bug_report.md
 milestone: 5.0.0
@@ -45,7 +45,6 @@ projects: trialPosixSharedMem
 
 ### To Reproduce
 <!--  Steps to reproduce the behavior: -->
-
 <!--  1. Go to '...' -->
 <!--  2. Click on '....' -->
 <!--  3. Scroll down to '....' -->
