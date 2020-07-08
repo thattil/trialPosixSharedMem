@@ -7,11 +7,40 @@ template: bug_report.md
 assignees: 
 ---
 
+### Priority:
+- [x] Low
+- [ ] Medium
+- [ ] High
+
 ### Title the bug
 Bug title:
 
 ### Describe the bug
 A clear and concise description of what the bug is.
+
+### Environment:
+
+* Distribution: 
+- [x] RHEL7
+- [ ] RHEL6
+- [ ] Fedora
+- [ ] Other
+
+* Detector type:
+- [x] Eiger
+- [ ] Jungfrau
+- [ ] Mythen3
+- [ ] Gotthard2
+- [ ] Gotthard
+- [ ] Moench
+- [ ] ChipTestBoard
+
+* Version:
+<!-- Software Package version -->
+- [x] developer
+- [ ] 4.2.0
+- [ ] 4.1.1
+
 
 ### To Reproduce
 Steps to reproduce the behavior:
@@ -27,24 +56,6 @@ A clear and concise description of what you expected to happen.
 ### Screenshots
 If applicable, add screenshots to help explain your problem.
 
-### Environment:
-
-* Distribution: [e.g. RHEL7]
-
-* Detector type [e.g. Eiger]
 
 ### Additional context
 Add any other context about the problem here.
-
-### Issue default title:
-### Assignees:
-### Priority:
-- [x] Low
-- [ ] Medium
-- [ ] High
-
-### Software Package version
-Version:
-[x] developer
-[ ] 4.2.0
-[ ] 4.1.1
