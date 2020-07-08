@@ -8,26 +8,25 @@ milestone: 5.0.0
 assignees: 
 projects: trialPosixSharedMem
 ---
-<!--  Check an option by repacing space between brackets with an 'x' -->
+<!--  Check an option by [x], Uncheck an option by [ ]. Please preview to see your option has been selected -->
+<!-- Please fill out everything with an *, as this report will be discarded otherwise -->
 
-### Priority:
-- [x] Low
+### *Priority:
+- [x] Super Low
+- [ ] Low
 - [ ] Medium
 - [ ] High
+- [ ] Super High
 
+### Environment
 
-### Describe the bug
-<!--  A clear and concise description of what the bug is -->
-
-### Environment:
-
-* Distribution: 
+##### *Distribution: 
 - [x] RHEL7
 - [ ] RHEL6
 - [ ] Fedora
 - [ ] Other
 
-* Detector type: 
+##### *Detector type: 
 - [x] Eiger
 - [ ] Jungfrau
 - [ ] Mythen3
@@ -36,12 +35,17 @@ projects: trialPosixSharedMem
 - [ ] Moench
 - [ ] ChipTestBoard
 
-* Version: 
+##### *Version: 
 <!-- Software Package Version -->
 - [x] developer
 - [ ] 4.2.0
 - [ ] 4.1.1
 
+### *Describe the bug
+<!--  A clear and concise description of what the bug is -->
+
+### Expected behavior
+<!--  A clear and concise description of what you expected to happen. -->
 
 ### To Reproduce
 <!--  Steps to reproduce the behavior: -->
@@ -49,9 +53,6 @@ projects: trialPosixSharedMem
 <!--  2. Click on '....' -->
 <!--  3. Scroll down to '....' -->
 <!--  4. See error -->
-
-### Expected behavior
-<!--  A clear and concise description of what you expected to happen. -->
 
 ### Screenshots
 <!--  If applicable, add screenshots to help explain your problem. -->
