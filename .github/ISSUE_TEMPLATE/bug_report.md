@@ -1,6 +1,11 @@
-## Issue: Bug Report
-Create a report to help us improve 
-
+---
+name: Bug Report
+about: Create a report to help us improve 
+title: "[DATE]: [FEATURE NAME]"
+labels: bug report, [PRIORITY]
+template: bug_report.md
+assignees: 
+---
 
 
 ### Describe the bug
