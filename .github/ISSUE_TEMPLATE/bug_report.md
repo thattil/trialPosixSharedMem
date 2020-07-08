@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Create a report to help us improve 
-title: "[DATE]: [FEATURE NAME]"
+title: "[DATE]: [FEATURE NAME] [PRIORITY]"
 labels: bug report, [PRIORITY]
 template: bug_report.md
 assignees: 
