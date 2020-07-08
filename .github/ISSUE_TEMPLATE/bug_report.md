@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Create a report to help us improve 
-title: "[bug title]: [Version]"
+title: "bug title: @Version]"
 labels: bug, [Priority]
 template: bug_report.md
 assignees: 
@@ -34,7 +34,8 @@ assignees:
 - [ ] Moench
 - [ ] ChipTestBoard
 
-* Software Package Version: 
+* Version: 
+<!-- Software Package Version -->
 - [x] developer
 - [ ] 4.2.0
 - [ ] 4.1.1
