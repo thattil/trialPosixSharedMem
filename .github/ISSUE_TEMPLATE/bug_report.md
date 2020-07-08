@@ -1,10 +1,12 @@
 ---
 name: Bug Report
 about: Create a report to help us improve 
-title: bug title (@Version)
+title: New bug report (@Version)
 labels: bug, [Priority]
 template: bug_report.md
+milestone: 5.0.0
 assignees: 
+projects: trialPosixSharedMem
 ---
 <!--  Check an option by repacing space between brackets with an 'x' -->
 
