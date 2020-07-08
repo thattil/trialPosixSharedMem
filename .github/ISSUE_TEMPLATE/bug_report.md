@@ -1,12 +1,14 @@
 ---
 name: Bug Report
 about: Create a report to help us improve 
-title: "[DATE]: [FEATURE NAME] [PRIORITY]"
+title: "[BUG TITLE]: [VERSION]"
 labels: bug, [PRIORITY]
 template: bug_report.md
 assignees: 
 ---
 
+### Title the bug
+Bug title:
 
 ### Describe the bug
 A clear and concise description of what the bug is.
@@ -37,8 +39,12 @@ Add any other context about the problem here.
 ### Issue default title:
 ### Assignees:
 ### Priority:
-- [ ] Low
+- [x] Low
 - [ ] Medium
 - [ ] High
 
-### Software Package version: [e.g. 4.2.0]
+### Software Package version
+Version:
+[x] developer
+[ ] 4.2.0
+[ ] 4.1.1
