@@ -1,7 +1,8 @@
 ---
 name: Bug Report
 about: Create a report to help us improve 
-title: \\[priority] unclassified, \\[status] pending'
+title: New+Bug+Report
+labels: \\[priority] unclassified, \\[status] pending'
 template: bug_report.md
 milestone: 5.0.0
 assignees: 
