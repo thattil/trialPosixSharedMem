@@ -37,4 +37,7 @@ Add any other context about the problem here.
 ### Issue default title:
 ### Assignees:
 ### Priority:
+- [ ] Low
+- [ ] Medium
+- [ ] High
 ### Software Package version: [e.g. 4.2.0]
