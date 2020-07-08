@@ -1,8 +1,8 @@
 ---
 name: Bug Report
 about: Create a report to help us improve 
-title: "[BUG TITLE]: [VERSION]"
-labels: bug, [PRIORITY]
+title: "{{Bug title}}: {{Version}}"
+labels: bug, {{Priority}}
 template: bug_report.md
 assignees: 
 ---
@@ -13,7 +13,7 @@ assignees:
 - [ ] High
 
 ### Title the bug
-Bug title:
+Bug title: 
 
 ### Describe the bug
 A clear and concise description of what the bug is.
@@ -26,7 +26,7 @@ A clear and concise description of what the bug is.
 - [ ] Fedora
 - [ ] Other
 
-* Detector type:
+* Detector type: 
 - [x] Eiger
 - [ ] Jungfrau
 - [ ] Mythen3
@@ -35,7 +35,7 @@ A clear and concise description of what the bug is.
 - [ ] Moench
 - [ ] ChipTestBoard
 
-* Version:
+* Version: 
 <!-- Software Package version -->
 - [x] developer
 - [ ] 4.2.0
