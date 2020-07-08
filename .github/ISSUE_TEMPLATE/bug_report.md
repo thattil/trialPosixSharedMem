@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Create a report to help us improve 
-title: "{{Bug title}}: {{Version}}"
+title: "{{title}}: {{Version}}"
 labels: bug, {{Priority}}
 template: bug_report.md
 assignees: 
@@ -13,8 +13,6 @@ assignees:
 - [ ] Medium
 - [ ] High
 
-### Title the bug
-Bug title: 
 
 ### Describe the bug
 <!--  A clear and concise description of what the bug is -->
