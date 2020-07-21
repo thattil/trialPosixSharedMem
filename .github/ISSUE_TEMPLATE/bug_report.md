@@ -15,7 +15,7 @@ projects: trialPosixSharedMem
 <!-- Please fill out everything with an *, as this report will be discarded otherwise -->
 
 ### *Priority:
-- [x] Super Low
+- [ ] Super Low
 - [ ] Low
 - [ ] Medium
 - [ ] High
@@ -30,7 +30,7 @@ projects: trialPosixSharedMem
 - [ ] Other
 
 ##### *Detector type: 
-- [x] Eiger
+- [ ] Eiger
 - [ ] Jungfrau
 - [ ] Mythen3
 - [ ] Gotthard2
@@ -40,7 +40,7 @@ projects: trialPosixSharedMem
 
 ##### *Version: 
 <!-- Software Package Version -->
-- [x] developer
+- [ ] developer
 - [ ] 4.2.0
 - [ ] 4.1.1
 
