@@ -9,7 +9,9 @@ assignees:
 projects: trialPosixSharedMem
 ---
 
-<!--  Check an option by [x], Uncheck an option by [ ]. Please preview to see your option has been selected -->
+<!--  Check an option by - [x], Uncheck an option by - [ ] -->
+<!-- Please preview to see your option has been selected -->
+
 <!-- Please fill out everything with an *, as this report will be discarded otherwise -->
 
 ### *Priority:
