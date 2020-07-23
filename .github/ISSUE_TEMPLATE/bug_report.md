@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: New Bug Report
 labels: action - bug, priority - unclassified, status - pending
 template: bug_report.md
-milestone: 5.0.0
+milestone: Unclassified
 assignees: 
 projects: trialPosixSharedMem
 ---
@@ -14,14 +14,12 @@ projects: trialPosixSharedMem
 
 <!-- Please fill out everything with an *, as this report will be discarded otherwise -->
 
-### *Priority:
+##### *Priority:
 - [ ] Super Low
 - [ ] Low
 - [ ] Medium
 - [ ] High
 - [ ] Super High
-
-### Environment
 
 ##### *Distribution: 
 - [x] RHEL7
